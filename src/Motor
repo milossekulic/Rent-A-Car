@@ -1,0 +1,11 @@
+#include "Motor."
+
+Motor::Motor()
+{
+    //ctor
+}
+
+Motor::~Motor()
+{
+    //dtor
+}

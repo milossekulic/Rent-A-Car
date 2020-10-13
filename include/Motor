@@ -1,0 +1,16 @@
+#ifndef MOTOR_
+#define MOTOR_
+
+
+class Motor
+{
+    public:
+        Motor();
+        virtual ~Motor();
+
+    protected:
+
+    private:
+};
+
+#endif // MOTOR_

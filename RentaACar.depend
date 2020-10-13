@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1600010336 source:c:\users\sekulic\desktop\rentaacar\rentaacar\main.cpp
+	"Klijent.h"
+	"Automobil.h"
+	"Motor.h"
+	"Vozilo.h"
+	"Agencija.h"
+	<cstdio>
+
+1600009934 c:\users\sekulic\desktop\rentaacar\rentaacar\include\klijent.h
+	<iostream>
+	<string>
+	"Vozilo.h"
+
+1600010216 c:\users\sekulic\desktop\rentaacar\rentaacar\include\vozilo.h
+	<iostream>
+	<string>
+
+1600009874 c:\users\sekulic\desktop\rentaacar\rentaacar\include\automobil.h
+	<iostream>
+	<string>
+	"Vozilo.h"
+
+1600010292 c:\users\sekulic\desktop\rentaacar\rentaacar\include\motor.h
+	"Automobil.h"
+
+1600009782 c:\users\sekulic\desktop\rentaacar\rentaacar\include\agencija.h
+	"Vozilo.h"
+	"Klijent.h"
+
+1600009804 source:c:\users\sekulic\desktop\rentaacar\rentaacar\src\agencija.cpp
+	"Agencija.h"
+
+1600009856 source:c:\users\sekulic\desktop\rentaacar\rentaacar\src\automobil.cpp
+	"Automobil.h"
+
+1600009918 source:c:\users\sekulic\desktop\rentaacar\rentaacar\src\klijent.cpp
+	"Klijent.h"
+
+1600010308 source:c:\users\sekulic\desktop\rentaacar\rentaacar\src\motor.cpp
+	"Motor.h"
+
+1600010240 source:c:\users\sekulic\desktop\rentaacar\rentaacar\src\vozilo.cpp
+	"Vozilo.h"
+
+1600006736 source:d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\main.cpp
+	"Klijent.h"
+	"Automobil.h"
+	"Motor.h"
+	"Vozilo.h"
+	"Agencija.h"
+	<cstdio>
+
+1600006334 d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\include\klijent.h
+	<iostream>
+	<string>
+	"Vozilo.h"
+
+1600006616 d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\include\vozilo.h
+	<iostream>
+	<string>
+
+1600006274 d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\include\automobil.h
+	<iostream>
+	<string>
+	"Vozilo.h"
+
+1600006692 d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\include\motor.h
+	"Automobil.h"
+
+1600006182 d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\include\agencija.h
+	"Vozilo.h"
+	"Klijent.h"
+
+1600006204 source:d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\src\agencija.cpp
+	"Agencija.h"
+
+1600006256 source:d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\src\automobil.cpp
+	"Automobil.h"
+
+1600006318 source:d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\src\klijent.cpp
+	"Klijent.h"
+
+1600006708 source:d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\src\motor.cpp
+	"Motor.h"
+
+1600006640 source:d:\milos's documents\desktop\projekti za github\rentaacar\rentaacar\src\vozilo.cpp
+	"Vozilo.h"
+
